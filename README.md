@@ -1,5 +1,9 @@
-### GitHub Stats
+## Activity
+<p align="center"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=amirkzm0098&theme=redical&hide_border=true">
+</p>
 
+## GitHub Stats
 <p align="center"> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=amirkzm0098&theme=radical&hide_border=true&hide_title=true">
 </p>
