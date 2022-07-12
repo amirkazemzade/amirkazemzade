@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirkzm0098&theme=radical&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirkzm0098&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amirkzm0098&theme=radical&hide_border=true)
+
+
 <!--
 **amirkzm0098/amirkzm0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
