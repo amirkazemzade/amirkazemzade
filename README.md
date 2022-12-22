@@ -5,7 +5,7 @@
 
 ## Activity
 <p align="center"> 
-    <img src="https://activity-graph.herokuapp.com/graph?username=amirkzm0098&theme=redical&hide_border=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amirkzm0098&theme=redical&hide_border=true">
 </p>
 
 ## GitHub Stats
