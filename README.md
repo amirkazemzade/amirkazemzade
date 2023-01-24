@@ -2,7 +2,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### [🚧 Website Under Construction 🚧](https://amirkzm0098.github.io/)
+### [Personal Website](https://amirkzm0098.github.io/)
 
 ## Activity
 <p align="center"> 
