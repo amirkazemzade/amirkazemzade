@@ -6,7 +6,7 @@
 
 ## Activity
 <p align="center"> 
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amirkazemzade&theme=redical&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirkazemzade&theme=redical&hide_border=true">
 </p>
 
 ## GitHub Stats
