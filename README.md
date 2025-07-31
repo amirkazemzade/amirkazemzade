@@ -5,7 +5,7 @@
 
 ### [Personal Website](https://amirkazemzade.github.io/)
 
-- 🔭 I’m currently working on [Material Music Player](https://github.com/amirkazemzade/shopping_center)
+- 🔭 I’m currently working on [Shopping Center](https://github.com/amirkazemzade/shopping_center)
 - 🌱 I’m currently going deep on [Jepack Compose](https://developer.android.com/jetpack/compose)
 - 💬 Ask me about Mobile Development and Kotlin
 - 📫 How to reach me: [amirkzm0098@gmail.com](mailto://amirkzm0098@gmail.com)
