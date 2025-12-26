@@ -5,8 +5,6 @@
 
 ### [Personal Website](https://amirkazemzade.github.io/)
 
-- 🔭 I’m currently working on [Shopping Center](https://github.com/amirkazemzade/shopping_center)
-- 🌱 I’m currently going deep on [Jepack Compose](https://developer.android.com/jetpack/compose)
 - 💬 Ask me about Mobile Development and Kotlin
 - 📫 How to reach me: [amirkzm0098@gmail.com](mailto://amirkzm0098@gmail.com)
 
@@ -17,7 +15,7 @@
 
 ## GitHub Stats
 <p align="center"> 
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=amirkazemzade&theme=radical&hide_border=true&hide_title=true">
+    <img src="https://streak-stats.demolab.com?user=amirkazemzade&theme=radical&hide_border=true&exclude_days=Fri" alt="GitHub Streak"/>
 </p>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=amirkazemzade&theme=radical&hide_border=true&hide_title=true&show_icons=true&show=prs_merged,prs_merged_percentage&icon_color=a97bff">
